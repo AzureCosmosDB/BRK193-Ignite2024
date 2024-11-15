@@ -1,0 +1,9 @@
+azure-cosmos~=4.7.1
+streamlit~=1.39.0
+sshtunnel
+openai~=1.51.2
+pgvector~=0.3.5
+psycopg[binary,pool]~=3.2.3
+python-dotenv~=1.0.1
+numpy~=2.1.2
+pandas~=2.2.3

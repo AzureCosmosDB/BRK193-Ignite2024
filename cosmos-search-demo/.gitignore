@@ -1,0 +1,8 @@
+.env
+.diskann
+.DS_Store
+.azure
+.idea
+.deployment
+.vscode
+venv
