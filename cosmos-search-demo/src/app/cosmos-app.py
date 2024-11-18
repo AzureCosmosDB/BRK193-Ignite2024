@@ -17,9 +17,9 @@ st.set_page_config(page_title="Ignite 2024 Demo", layout="wide", initial_sidebar
 # UI text strings
 page_title = "Azure Cosmos DB - Search Demo"
 page_helper = "Showcasing DiskANN (GA), full text search, text ranking, and hybrid search released at Ignite 2024."
-empty_search_helper = "Enter text relating to an area of research to get started."
+empty_search_helper = "Enter text to get started."
 semantic_search_header = "Search input"
-semantic_search_placeholder = "A Cantorian fractal spacetime"
+semantic_search_placeholder = "James Bond"
 vector_search_label = "Similarity search"
 full_text_ranking_label = "Full text ranking"
 full_text_search_label = "Full text search"
