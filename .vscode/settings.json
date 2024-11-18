@@ -1,4 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/220fc532-6091-423c-8ba0-66c2397d591b/resourceGroups/thvankra-ignite-2024-3/providers/Microsoft.Web/sites/ignite-2024-cosmos-search-demo",
+    "appService.defaultWebAppToDeploy": "",
     "appService.deploySubpath": "cosmos-search-demo"
 }
