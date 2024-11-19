@@ -2,7 +2,7 @@
 
 This repository contains a Python Streamlit application that allows users to search for movies using semantic search powered by OpenAI embeddings and Azure Cosmos DB. The application includes vector search, full text search, text ranking, and hybrid search. Three containers with no index, qflat, and DiskANN indexes are created. 
 
-![screenshot](media/screen-shot.png)
+![screenshot](cosmos-search-demo/media/screen-shot.png)
 
 ## Features
 
