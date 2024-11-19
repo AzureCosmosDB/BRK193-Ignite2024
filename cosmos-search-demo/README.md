@@ -1,4 +1,4 @@
-# Ignite 2024 Search Demo with Azure Cosmos DB.
+# Ignite 2024 Search Demo with Azure Cosmos DB
 
 This repository contains a Python Streamlit application that allows users to search for movies using semantic search powered by OpenAI embeddings and Azure Cosmos DB. The application includes vector search, full text search, text ranking, and hybrid search. Three containers with no index, qflat, and DiskANN indexes are created. 
 
